@@ -76,10 +76,15 @@
 <!-- ABOUT THE PROJECT -->
 ## О проекте
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://b4dcat404.github.io/tg-deliveries-evp)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Это проект с открытым кодом для реализации подбного в других городах России. 
+Мы стремимся развивать скилы нашей команды на подобного рода проектах.
 
+Бот будет выполнять функцию вывода полученных из парсера данных о доставках городов Республики Крым. 
+А сам бот будет иметь возможность сортировать полученные товары по цене и названию. 
+
+Бот создан для облегчения поиска доставок для гостей городов или для выбора новой доставки жителей города.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
