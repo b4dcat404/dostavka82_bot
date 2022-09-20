@@ -62,19 +62,12 @@
         <li><a href="#built-with">Интсрументы</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#Использование">Использование</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#license">Лицензия</a></li>
+    <li><a href="#contact">Контакты</a></li>
+    <li><a href="#acknowledgments">Ресурсы</a></li>
   </ol>
 </details>
 
@@ -203,7 +196,7 @@ _Гайд по использованию бота можно найти в [д�
 
 
 <!-- CONTACT -->
-## Contact
+## Котакты
 
 **Dev Team Twitter** - [@b4dcat404](https://twitter.com/b4dcat404) 
 
@@ -221,7 +214,7 @@ _Гайд по использованию бота можно найти в [д�
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Ресурсы
 
 * []()
 * []()
