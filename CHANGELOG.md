@@ -22,4 +22,4 @@
 - Change project description
 
 ### Removed
-- Old README.MD template
+- Old README.MD template.
