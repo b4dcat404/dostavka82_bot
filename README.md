@@ -34,19 +34,19 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Crimea Deliveries</h3>
 
   <p align="center">
-    project_description
+    Телеграм бот собирающий доставки Республики Крым
     <br />
-    <a href="https://github.com/b4dcat404/tg-delivery-evp"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/b4dcat404/tg-delivery-evp"><strong>Документация »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/b4dcat404/tg-delivery-evp">View Demo</a>
+    <a href="https://t.me/dostavka82_bot">Демо</a>
     ·
-    <a href="https://github.com/b4dcat404/tg-delivery-evp/issues">Report Bug</a>
+    <a href="https://github.com/b4dcat404/tg-delivery-evp/issues">Сообщить о баге</a>
     ·
-    <a href="https://github.com/b4dcat404/tg-delivery-evp/issues">Request Feature</a>
+    <a href="https://github.com/b4dcat404/tg-delivery-evp/issues">Прделожить идею</a>
   </p>
 </div>
 
@@ -54,12 +54,12 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Содержание</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">О проекте</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Интсрументы</a></li>
       </ul>
     </li>
     <li>
@@ -81,7 +81,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## О проекте
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -91,22 +91,24 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-### Built With
+### Инструменты
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
+* [![Python][Python]][Python-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+* [![Telegram API][TGAPI]][TGAPI-url]
+<!--* [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]-->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- GETTING STARTED -->
+<!-- GETTING STARTED 
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -137,15 +139,13 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+-->
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Использование
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+_Гайд по использованию бота можно найти в [документации](https://b4dcat404.github.io/tg-delivery-evp/documentations.html)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,12 +154,22 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [x] Создание и базовая настройка бота
+- [ ] Создание парсера доставок
+- [ ] Парсинг и обработка полученых данных (добавление в БД)
+- [ ] Подключение бота к БД
+- [ ] Возможность выбора города
+    - [ ] Евпатория
+    - [ ] Симферополь
+    - [ ] Севастополь
+    - [ ] Керчь
+    - [ ] Феодосия
+- [ ] Сортировка по цене выбранный товар (пр. Роллы "Филадельфия")
+- [ ] Возможность запуска/оплаты рекламы
+- [ ] Вывод статистики использования бота по запросу
+- [ ] 10 000 пользователей
 
-See the [open issues](https://github.com/b4dcat404/tg-delivery-evp/issues) for a full list of proposed features (and known issues).
+Посмотрите [открытые проблемы](https://github.com/b4dcat404/tg-delivery-evp/issues) для получения полного списка предлагаемых функций (и известных проблем).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,10 +178,10 @@ See the [open issues](https://github.com/b4dcat404/tg-delivery-evp/issues) for a
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Вклад - это то, что делает сообщество с открытым исходным кодом таким удивительным местом для обучения, вдохновения и творчества. Любой ваш вклад **высоко ценится**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Если у вас есть предложение, которое сделало бы этого бота лучше, сделайте форк репозитория и создайте пул реквест. Вы также можете просто создать новый [Issue](https://github.com/b4dcat404/tg-delivery-evp/issues) с тегом "улучшение".
+Не забудьте дать проекту звезду! Еще раз спасибо!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -184,9 +194,9 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+## Лицензия
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Распространяется под лицензией GPL-3.0. Подробности в  `LICENSE.txt` 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,9 +205,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+**Dev Team Twitter** - [@b4dcat404](https://twitter.com/b4dcat404) 
 
-Project Link: [https://github.com/b4dcat404/tg-delivery-evp](https://github.com/b4dcat404/tg-delivery-evp)
+**Разработчик** - [@vi_dev0](https://twitter.com/vi_dev0)
+
+**Поддержка TG** - [@b4dcat404_support](https://t.me/b4dcat404_support)
+
+**Новостной канал TG** - [@b4dcat404](https://t.me/b4dcat404)
+
+**Ссылка на проект:** [https://github.com/b4dcat404/tg-delivery-evp](https://github.com/b4dcat404/tg-delivery-evp)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -243,5 +260,9 @@ Project Link: [https://github.com/b4dcat404/tg-delivery-evp](https://github.com/
 [Laravel-url]: https://laravel.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery.com]: https://img.shields.io/badge/jQuery-blueviolet?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery-url]: https://jquery.com
+[Python]: https://img.shields.io/badge/python-0769AD?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://python.org
+[TGAPI]: https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white
+[TGAPI-url]: https://telegram.org
