@@ -198,13 +198,13 @@ _Гайд по использованию бота можно найти в [д�
 <!-- CONTACT -->
 ## Котакты
 
-**Dev Team Twitter** - [@b4dcat404](https://twitter.com/b4dcat404) 
+**Dev Team Twitter** - [Twitter @b4dcat404](https://twitter.com/b4dcat404) 
 
-**Разработчик** - [@vi_dev0](https://twitter.com/vi_dev0)
+**Разработчик** - [Twitter @vi_dev0](https://twitter.com/vi_dev0)
 
-**Поддержка TG** - [@b4dcat404_support](https://t.me/b4dcat404_support)
+**Поддержка** - [Telegram @b4dcat404_support](https://t.me/b4dcat404_support)
 
-**Новостной канал TG** - [@b4dcat404](https://t.me/b4dcat404)
+**Новостной канал TG** - [Telegram @b4dcat404](https://t.me/b4dcat404)
 
 **Ссылка на проект:** [https://github.com/b4dcat404/tg-delivery-evp](https://github.com/b4dcat404/tg-delivery-evp)
 
