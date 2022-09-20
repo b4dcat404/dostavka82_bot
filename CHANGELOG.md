@@ -13,3 +13,13 @@
 ### Removed
 
 - Some packages/libraries from acknowledgements I no longer use
+
+## v1.0.1
+
+### Added or Changed
+- Change from MIT license to GNU
+- Change URLs in template
+- Change project description
+
+### Removed
+- Old README.MD template
